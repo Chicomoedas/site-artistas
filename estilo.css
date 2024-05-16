@@ -1,13 +1,30 @@
 .container{
     display: flex;
-    justify-content: flex-end;
-    align-items: flex-start;
-    flex-wrap: wrap;
-    float: left;
-
+    justify-content: space-around;
+    text-align: center;
+    
+   text-decoration: none;
 }
 
 .body {
+ background-color: royalblue;
 
     align-items: first baseline;
 }
+ .nwa{
+    margin-right: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+ }
+
+ .beatles{
+    margin-right: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+ }
+
+ .mamonas{
+    margin-right: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+ }

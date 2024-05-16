@@ -1,0 +1,14 @@
+.nwa{
+    display: auto;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+.botao {   position: fixed;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    background-color: #3366ccc0;
+    color: #fff;
+    text-decoration: none;
+    transition: background-color 0.3s ease-in-ou}
